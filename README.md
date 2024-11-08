@@ -1,57 +1,52 @@
-# Toko Alat Tulis Online
+# DimocStationery - Toko Alat Tulis Online
 
-Selamat datang di **Toko Alat Tulis Online**! Website ini menyediakan berbagai macam alat tulis yang dapat Anda beli secara online dengan mudah. 
+Selamat datang di **DimocStationery**! Website ini menyediakan berbagai alat tulis yang dapat Anda beli secara online, lengkap dengan fitur-fitur khusus untuk pengguna dan admin.
 
 ## Fitur Utama
 
 ### Untuk Pengguna (User)
-- **Lihat Barang**: Anda dapat melihat berbagai macam alat tulis yang tersedia di website kami.
-- **Keranjang Belanja**: Tambahkan barang yang ingin Anda beli ke keranjang belanja.
-- **Checkout**: Setelah memilih barang, Anda dapat melanjutkan ke proses checkout dan menyelesaikan pembelian.
+- **Home**: Anda dapat melihat laman utama website serta melihat barang-barang yang tersedia
+- **About Us**: Berisi profil dari founder dari website yang bisa Anda akses.
+- **Login**: Anda dapat masuk ke akun yang telah dibuat atau mendaftar sebagai pengguna baru.
+- **Products**: Menampilkan daftar lengkap peralatan yang tersedia, lengkap dengan kategori, stok, dan harga.
+- **Search**: Anda dapat mencari produk atau kategori yang anda inginkan.
+- **Cart**: Menyimpan barang-barang yang Anda pilih sebelum melanjutkan ke pembayaran.
+- **Checkout**: Anda dapat menyelesaikan pembelian dan melakukan pembayaran untuk barang yang telah dipilih.
 
 ### Untuk Admin
-- **Manajemen Barang**: Admin dapat menambah, mengedit, atau menghapus barang yang tersedia di website.
-- **Konfirmasi Pesanan**: Admin akan mengonfirmasi setiap pesanan pengguna.
-- **Riwayat Pesanan**: Admin dapat melihat riwayat pembelian pengguna untuk pengelolaan data transaksi.
+- **Products**: Admin dapat melihat barang-barang yang tersedia di website.
+- **Create**: Admin dapat menambahkan barang baru ke dalam katalog produk.
+- **Update**: Admin dapat memperbarui informasi barang yang ada.
+- **Delete Produk**: Admin dapat menghapus barang dari katalog.
+- **Konfirmasi**: Admin mengonfirmasi pembelian yang dilakukan oleh pengguna.
+- **History**: Admin dapat melihat riwayat transaksi pembelian yang telah selesai.
 
 ## Cara Menggunakan
 
-1. **Registrasi dan Login**:
-   - Pengguna baru dapat membuat akun dengan menekan tombol **Daftar** di halaman utama.
-   - Setelah berhasil registrasi, Anda bisa login untuk mengakses fitur lengkap.
-   
-2. **Menjelajahi Produk**:
-   - Setelah login, Anda dapat melihat daftar produk dan menambahkan barang ke keranjang belanja.
+1. **Pengguna Umum**:
+   - **Registrasi atau Login**: Pengguna dapat membuat akun baru atau login dengan akun yang telah ada.
+   - **Telusuri Produk**: Buka halaman **Products** untuk melihat barang yang tersedia dan tambahkan ke keranjang belanja.
+   - **Checkout**: Lanjutkan ke pembayaran melalui halaman **Cart** dan **Checkout**.
 
-3. **Proses Checkout**:
-   - Ketika sudah siap membeli, klik keranjang belanja dan lanjutkan ke **Checkout**.
-   - Ikuti instruksi untuk menyelesaikan pembayaran.
-
-4. **Notifikasi Pembelian**:
-   - Setelah admin mengonfirmasi pesanan Anda, Anda akan mendapatkan notifikasi bahwa pembelian telah berhasil.
+2. **Admin**:
+   - **Manajemen Produk**: Admin dapat menambah, mengedit, dan menghapus barang melalui halaman **Products**, **Create**, **Update**, dan **Delete Produk**.
+   - **Konfirmasi Pesanan**: Admin dapat mengonfirmasi setiap pesanan melalui menu **Konfirmasi**.
+   - **Riwayat Pembelian**: Riwayat transaksi dapat diakses melalui menu **History**.
 
 ## Teknologi yang Digunakan
 
-- **Frontend**: HTML, CSS, JavaScript untuk tampilan antarmuka pengguna.
-- **Backend**: PHP untuk memproses transaksi dan manajemen data.
-- **Database**: MySQL untuk menyimpan data produk, pengguna, dan transaksi.
-
-## FAQ
-
-### Bagaimana cara menghubungi admin?
-Jika Anda memiliki pertanyaan atau kendala, silakan hubungi admin melalui fitur kontak yang tersedia di halaman utama.
-
-### Apakah ada biaya pengiriman?
-Informasi mengenai biaya pengiriman akan ditampilkan pada halaman checkout, tergantung pada lokasi Anda.
+- **Frontend**: HTML, CSS, JavaScript untuk tampilan antarmuka.
+- **Backend**: PHP untuk pemrosesan transaksi dan manajemen data.
+- **Database**: MySQL untuk menyimpan informasi produk, pengguna, dan transaksi.
 
 ## Kebijakan Privasi
 
-Kami menjaga privasi pengguna dengan serius. Data pribadi Anda hanya akan digunakan untuk memproses pesanan dan tidak akan dibagikan kepada pihak ketiga.
+Privasi dan keamanan data pengguna adalah prioritas kami. Informasi pribadi Anda hanya akan digunakan untuk keperluan transaksi di DimocStationery.
 
-## Dukungan & Kontribusi
+## Dukungan & Umpan Balik
 
-Jika Anda menemukan masalah atau memiliki saran untuk meningkatkan website ini, silakan hubungi kami atau ajukan melalui fitur umpan balik di website.
+Jika Anda memiliki kendala atau saran, silakan hubungi kami melalui halaman **About Us** atau fitur **Kontak** yang tersedia di website.
 
 ---
 
-README ini sudah disesuaikan dengan tampilan pengguna umum yang mengakses website di internet, sehingga lebih mudah dipahami oleh pengguna yang mengaksesnya secara online.
+README ini sudah disesuaikan dengan nama **DimocStationery** agar pengguna lebih memahami tujuan dan fitur-fitur di website ini.
