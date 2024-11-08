@@ -42,11 +42,3 @@ Selamat datang di **DimocStationery**! Website ini menyediakan berbagai alat tul
 ## Kebijakan Privasi
 
 Privasi dan keamanan data pengguna adalah prioritas kami. Informasi pribadi Anda hanya akan digunakan untuk keperluan transaksi di DimocStationery.
-
-## Dukungan & Umpan Balik
-
-Jika Anda memiliki kendala atau saran, silakan hubungi kami melalui halaman **About Us** atau fitur **Kontak** yang tersedia di website.
-
----
-
-README ini sudah disesuaikan dengan nama **DimocStationery** agar pengguna lebih memahami tujuan dan fitur-fitur di website ini.
